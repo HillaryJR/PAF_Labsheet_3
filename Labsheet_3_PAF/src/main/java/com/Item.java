@@ -27,7 +27,7 @@ public class Item {
 	       return con; 
 	} 
 
-	/****************************Insert Item***********************************/
+	/****************************Insert Item**********************************/
 	
 	public String insertItem(String code, String name, String price, String desc) { 
 	 	
